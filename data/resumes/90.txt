@@ -1,0 +1,117 @@
+Aaron ZHANG
+Flat H, 6F, Tower 6, Harbour Green, Hong Kong
+
+xu_zhang@live.com; +852 5424 3427
+
+ACADEMIC ACHIEVEMENTS
+The University of Hong Kong
+
+2012 graduate
+
+Master of Finance with concentration in Financial Engineering
+Courses: Mathematical Techniques of Finance: A; Asset Valuation: A; Financial Engineering: A-; Risk Management: ANanjing University
+
+2010 graduate
+
+Bachelor of Engineering in Software Engineering; Concentration in System Programming
+
+
+Graduation thesis on “Analysis & Design of the Embedded Database Micro-DB System” (ranked top 10%)
+Designed data access algorithm by B-tree and constructed SQL analyzer by Lex & Yacc
+
+
+
+Projects experience in C/C++, Java, KDB+ q, SQL, Python; proficiency in Linux programming
+
+PROFESSIONAL EXPERIENCE
+Credit Suisse
+
+Equity Research
+
+Research Associate
+
+Oct 2014 - Present
+
+
+
+Perform fundamental equity research analysis on China autos & auto parts, and new energy battery sector
+
+
+
+Prepare company initiation / sector reports; manage and update industry master database
+
+
+
+Assist to conduct bottom-up analysis using highly detailed financial models and assessing key valuation metrics to identify
+compelling investment opportunities
+
+
+
+Assist to complete day to day client requests and conduct regularly channel check
+
+China Securities (中信建投)
+
+Equity Research
+
+Research Analyst
+
+July 2013 - Oct 2014
+
+
+
+Initiated coverage on three consumer-sector companies; built financial models and created industry database
+
+
+
+Produced two pre-IPO research reports and participated in IPO roadshows
+
+
+
+Produced 10 corporate assessment reports on listed companies under Beijing Municipal SASAC for SASAC’s annual review
+
+Guosen Securities (国信证券)
+
+Quantitative Investment
+
+Quantitative Analyst
+
+July 2012 - July 2013
+
+Awarded as the best financial engineering team in China by New Fortune Magazine 2011, 2012
+
+
+Developed an automated trading platform; built option market trading and arbitrage monitoring system
+
+
+
+Deployed and supported quantitative strategies: designed and optimized algorithmic and HF trading strategies in KDB+
+
+MODELING EXPERIENCES
+
+
+Portfolio management: constructing optimal risky portfolio; applying regression model for Beta estimation
+
+
+
+Pricing modeling: practiced Extended Vasicek, Monte Carlo simulation with Antithetic, Finite Difference Methods; Extended
+B-S by Geometric Brownian Motion with stochastic volatility and jump diffusion; Designing and pricing Equity Linked Notes
+
+
+
+Risk management: applied GARCH model, VaR Historical Simulation and model building method, worst case scenario analysis.
+Interactive Graphics System: Implementing graphics transformation, seed fill algorithm, Cohen-Sutherland algorithm,
+Weiler-Atherton clipping algorithm by C++
+
+AWARDS AND PROFESSIONAL QUALIFICATIONS
+2016
+
+CFA Level II Candidate
+
+Sep 2006 - Jun 2007 People's Scholarship of Nanjing University
+Oct 2007 - Dec 2007 Certificate of KPMG& SIFE financial analysis training program; SIFE China Valuable Contribution Members
+Jul 2008 - Aug 2008 Certificate of IBM Advanced Electronic-Business Engineering
+IT & LANGUAGE SKILLS
+Proficiency in C/C++, Java, SQL and Python programming; Excel / VBA modeling; Bloomberg
+English, Mandarin and Cantonese
+
+

@@ -1,0 +1,124 @@
+JAI JANYANI
+8th Semester Undergraduate | Computer Science Engineering | UCE RTU, Kota
++91 9772881151 | jaijanyani@gmail.com | 7/108, Malviya Nagar Jaipur (302017)
+
+SUMMARY
+To seek an opportunity to apply my technology expertise along with my creative problem solving skills in an
+innovative software company.
+
+EXPERIENCE
+
+
+
+
+
+
+
+Machine Learning Engineering Intern , Forsk Technologies , Jaipur (May,2017 – July,2017)
+Learned the foundational concepts of data science and machine learning including python and statistics,
+enough time was spent on understanding the concept behind each algorithm and examples and case
+studies were done. Built some mid-scaled machine learning models using supervised and unsupervised
+learning.
+Software Engineering Intern , Proxbotics Creations Technologies , Jaipur (May,2016 – July,2016)
+Developed and optimized various projects including ecommerce, booking & reservation, non-profit
+organization Websites, using technologies: HTML, CSS, PHP, JavaScript, MySQL etc.
+Trainee at TecheduSoft , Kota (May,2015)
+The course contains 15+ modules including Android Basics, fragments, screen designing, intents, various
+views, signing app, web servers, web services, notifications, etc.
+
+PROJECTS
+All projects are available on git: https://github.com/JAIJANYANI
+
+
+
+
+
+
+
+
+Video Analysis for surveillance
+-A command line app which takes all your CCTV feeds as input and filters feeds with abnormal events
+which results in 90% less videos to watch, Used image processing and deep learning algorithms,
+outputs all time-stamps of interesting events for all feeds.
+Food Calorie Estimator
+-An android app to estimate calories present in food with still image. Trained own Data-set (Meal-net)
+using Transfer learning Built upon Inception V3, Proposed a Deep Convolutional Neural Network (CNN)
+with 48 Layers, Developed a REST API to integrate it in Mobile apps, Optimized total computation time
+~ 2 Seconds.
+CryptoCurrency Market Predictor
+- A Flask app to predict the future prices of various Crypto Currencies, implemented various supervised
+and deep learning algorithms such as LSTM (RNN), polynomial regression, using scikit-learn, tensorflow,
+keras etc.
+Spam Filter
+-A REST API to Detect Incoming SMS or Email as Spam or Ham which can be trained on your own data
+set. Used NLP with Naive Bayes for Sentiment Analysis.
+
+
+
+
+
+
+
+Image Classifier using CNN
+-An application which detects objects present in a still image, implemented convolutional neural
+network using open source machine learning library which can be run on multiple machines to reduce
+training workloads, classifies objects using pre-trained image-net model.
+Online Student and Faculty Portal
+-A Web Portal to manage attendance of students and faculties, can be integrated to mobile apps. Uses
+Php, MySQL, HTML, CSS, JavaScript, etc.
+Tax Accounting
+-A Decentralized web app built on Ethereum Block-Chain using Truffle and Embark framework, which
+can be used to transfer funds between accounts which automatically deducts tax from the account.
+
+TECHNICAL SKILLS
+Programming Languages
+
+:
+
+C, C++
+
+Web Technologies
+
+:
+
+HTML, CSS
+
+Scripting Languages
+
+:
+
+Python, PHP, BASH
+
+Database Management System
+
+:
+
+MySQL, SQLite
+
+Operating Systems
+
+:
+
+Microsoft Windows, Linux, UNIX
+
+Strongest Areas
+
+:
+
+Machine Learning, Data Science
+
+COURSES
+Applied Machine Learning , Applied Data Science , Exploratory Data Analysis & Data Visualization , Neural
+Networks & Deep Learning , Computer networks , Data Structures & Algorithms , Operating Systems , Cloud
+Computing , Data Mining , Block chain Essentials , Database Management Systems.
+
+EDUCATION
+
+
+
+
+University College of Engineering , Kota : Btech (Pursuing) in Computer Science Engineering (2018)
+St. Edmunds School , Jaipur : Senior Secondary (XII) Education Rajasthan (2012)
+St. Edmunds School , Jaipur : Secondary (X) Education Rajasthan (2010)
+
+

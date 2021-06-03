@@ -1,0 +1,334 @@
+王浩 (博士研究生)
+haowangno1@gmail.com, +852 56459650
+我于2014年8月获得香港城市大学管理科学系哲学博士学位。我博士期间的研究领域为金融工程，包
+括欧式期权定价，指数预测，期权交易策略设计以及基于期权的风险管理。于2011年12月至2012年10
+月在金道投资（香港）集团实习，实习期间主要负责恒指期权交易辅助系统的开发以及策略设计，并
+通过半年的实盘交易测试了所开发的系统。在实盘交易的过程中记录了所有的交易信息并对其做分析。
+博士期间出版实战交易经验专著《Volatility Surface and Term Structure-based Modeling and Analysis
+High-profit Options Trading Strategies》。本科毕业于西北工业大学计算机科学与技术专业，有较强的
+理工科背景，建模和编程能力，尤其是基于金融数据的建模分析能力，并多次获得编程竞赛，数学建
+模竞赛，足球机器人竞赛国家以及国际级别奖励。以优异的成绩获得香港政府博士研究生全额奖学金。
+
+教育背景
+博士研究生， 香港城市大学 管理科学系，
+学士学位，
+
+中国香港，2010.9~2014.8, GPA:3.56/4.
+
+西北工业大学 计算机科学与技，中国西安，2006.9~2010.6, GPA: 87.34/100
+
+工作经验
+高级分析师 软库中华金融集团 2015.5~Now
+工作描述：作为该公司研究部的高级分析师,我主要负责研究部门的研究工作，包括部门对 A 股以及
+H 股的研究分析，国内国际市场的宏观分析以及并购重组的框架设计。针对 A 股以及港股标的的研究
+报告的撰写，策略设计，以及对公司资产管理部门和销售部门的研究支持。
+策略分析师 南华期货（香港）有限公司 2014.5~2014.11
+工作描述：在担任该公司策略分析师至今主要完成了两项工作任务，一是对于公司资产管理部门新成
+立的对冲基金“南华大中华基于基金”进行对冲策略的设计，该对冲基金主要针对大中华地区的金融
+市场，主要是沪港两地市场，但不限于沪港两地市场的证券，期货以及相应的衍生品，合理分配资产，
+分散风险，结合沪港通，进行策略的设计，并利用其对应的衍生品以及杠杆作用进行风险的对冲。第
+二项任务是针对阿里巴巴美国新上市以及其对应的个股期权也随机开放，对此造就了众多的百万乃至
+
+千万富翁，对此，结合新上市的个股期权帮助这些高净值人群对冲手上持有的限售股，达到对其限售
+股资产的保值作用。
+
+项目经验
+恒指期权交易辅助系统开发及实盘交易（实习）金道投资集团（香港）2011.12~2012.10
+项目描述：在实习期间，研究开发基于波动率期限结构的恒指期权辅助交易系统。并根据开发的波动
+率交易系统计算结果进行恒指期权模拟以及实盘交易。恒指期权波动率交易系统从市场上获取恒指期
+权的数据，计算波动率微笑，波动率曲面以及波动率期限结构，并根据计算出来的参数模拟预测恒指
+未来一段时间的走势。最后根据模拟的标的物走势，计算市场上有流动性的所有期权的组合的预期收
+益，风险价值以及条件风险价值，并据此对不同的投资组合进行排序，选取有效的投资组合获利。
+任务 成果:
+
+
+基于C++开发了期权数据抓取程序模块，实现基于交易软件IB和因特网的数据提取，并将提取
+的数据利用SQL语言存储于Oracle数据库中。
+
+
+
+基于Matlab计算隐含波动率曲面以及期限结构并获取局部波动率.。
+
+
+
+基于Matlab分析VHSI以及HSI的相关性并训练Heston模型的参数。
+
+
+
+基于Matlab设计期权交易模型。
+
+
+
+开发基于TCP/IP以及C++的程序日志。
+
+
+
+基于HTML以及Javascript开发交易辅助系统的图形界面。
+
+
+
+利用交易软件IB做恒指期权模拟以及实盘交易（金额HK$1,000,000）。
+
+
+
+记录实盘交易并对实盘交易进行获利分析。
+
+计算机软件著作权， NWPU，中国西安， 2007~2009
+项目描述：开发仿真11VS11足球机器人程序并申请相应的计算机软件著作权 “Group Decisionmaking System facing SimuroSot 11vs11”。该软件著作权是基于SimuroSot 11vs11竞赛的分布式系统。
+该系统已经在国内以及国际足球机器人竞赛中屡次获得优秀战绩。在分布式系统的开发中我主要负责
+中场以及点球策略的开发。系统开发基于C/C++ 框架
+任务 成果:
+
+
+
+负责十一个足球机器人的跑位策略设计以及作为队长负责组织队员的协调与任务分工。
+
+
+
+开发点球策略模块以及中场缓冲带策略的设计。
+
+
+
+负责测试系统在竞赛平台运行的稳定性。
+
+
+
+撰写软件著作权申请报告。
+
+专业技能
+
+
+C/C++, Java, Matlab, R
+
+
+
+RDBMS
+
+发表文献
+论文:
+
+
+Jin Cui, Hao Wang, Shining. Li, Zhigang Li “Deployment Issues for Robust Time Synchronization in
+WSN", Joint International Computer Science and Information Technology Conference 2011.
+
+
+
+Hao Wang, Yagang Lu, Kin Keung. Lai, “Employee Service Performance Evaluation Model:
+Evidence from Chinas Hospitality Industry." Journal of Service Science and Management(accepted)。
+
+专著：
+
+
+Shifei Zhou, Hao Wang, Kin Keung Lai, Jerome Yen. "Volatility Surface and Term Structure-based
+Modeling and Analysis High-profit Options Trading Strategies", Taylor & Francis, August 2013.
+
+部分奖励
+2007
+
+国家奖学金
+
+2008
+
+高教社杯全国大学生数学建模竞赛陕西一等奖
+
+2008, 2009
+
+国家励志奖学金
+
+2008
+
+全国大学生足球机器人竞赛11VS11三等奖
+
+2009
+
+第九届足球机器人11VS11世界杯一等奖
+
+2010 -2014
+
+香港政府博士研究生全额奖学金
+
+语言能力
+英语 CET-6
+
+Wang Hao (PhD)
+haowangno1@gmail.com, +852 56459650
+I have obtained my Ph.D. degree in Management Sciences from City University of Hong Kong in August
+2014. My research interests include financial engineering, asset and option pricing, trading strategies, and risk
+management. I have half year experience in HSI Derivatives trading, especially in option trading, in a hedge
+fund called GoldenWay (HK). I have kept a record and a diary of the deals that I made during this period.
+Also, I published a book about the derivatives trading named “Volatility Surface and Term Structure-based
+Modeling and Analysis High-profit Options Trading Strategies”. I am self-motivated and diligent. I have
+balanced skill set and knowledge in Financial Markets and Financial Products, Mathematics and modelling,
+Analytical Skills and Programming, plus strong Market Sense. I also obtained many awards and honors
+during school life and graduated with excellent GPA.
+
+EDUCATION AND QUALIFICATIONS
+Ph.D of Management Sciences, City University of Hong Kong, Hong Kong, 2010.9~2014.8, GPA:3.56/4.0
+B.Eng of Computer Science, Northwestern Poly-technical University, China, 2006.9~2010.6, GPA: 87.34/100
+
+WORK EXPERIENCE
+SENIOR ANALYST, SBI China Capital Financial Services Company, Hong Kong, 2015.5~now
+Work Description: As the senior analyst, I take responsible for the research team to complete the research
+report and work of design the structure about the M&A projects and so on. We also do some macro-economic
+analysis to support the fund established in our company. And I mainly focus on the TMT and military
+sections of equity in both A-shares and Hong Kong market.
+Key Tasks & Achievements:
+
+
+Establish primary, secondary and after-market research coverage.
+
+
+
+Support primary and secondary market activities.
+
+
+
+Build financial models for companies and develop valuation techniques.
+
+
+
+Draft/coordinate sector, thematic and company reports.
+
+STRATEGY ANALYST, Nanhua Futures (Hong Kong) Co., LTD, Hong Kong, 2014.6~now
+
+Work Description: The mainly works are designing the trading strategies and doing the back test for the
+hedged fund named “Nanhua Greater China Opportunities Fund”. The Fund is structured to capture wide
+range of market opportunities in the Greater China markets including but not limited to the Shanghai-Hong
+Kong Stock Connect Scheme and diversify risk across different instruments on liquidity constraints, duration
+and size. Strategies employed by Fund include various hedging strategies on stock index futures, individual
+stocks, ETFs and their corresponding option strategies. While the second project of in my work now is to
+design the hedging strategies for the restricted shares of the new coming stock “BABA”. The stock of “BABA”
+and the corresponding option has published in US market. We are designing the strategies based on the stock
+option to hedge the risk for the restricted shares holder.
+
+PROFESSIONAL EXPERIENCE
+
+TRADER AND QUANT ANALYST (Internship), GoldenWay Company, Hong Kong, 2012.3~2012.9
+Project Description: We developed a volatility analysis system, which based on many market indicators or
+market information, for example, volatility surface and term structure, to generate market view to support
+investment or trading decision making for assets that cover HSI index options. This system processed call and
+put options to generate implied volatility smile, implied volatility term structure, and implied volatility
+surface. Then based on local and stochastic volatility models, the system generated the potential asset
+movement. Finally, the system recommended options trading strategies based on the predicted asset price
+movement. I was the system designer, the strategy analyst, and also trader to trade HSI options with the
+support of this system.
+
+Key Tasks & Achievements:
+
+
+Develop a download-data tool using C++ to fetch option data from IB or Internet and use SQL to
+store these data into Oracle.
+
+
+
+Design and calculate term structure model and local volatility model by Matlab.
+
+
+
+Design and calculate Heston model to analyze relationship between VHSI and HSI by Matlab.
+
+
+
+Design and implement option trading strategies by Matlab.
+
+
+
+Develop a Logging System by using TCP/IP and C++ for log recording.
+
+
+
+Develop a Website by using HTML and javascript to show these indicators and strategies.
+
+
+
+Trade HSI options and futures by using IB with a fund of HK$1,000,000.
+
+
+
+Achieve a list of trading records with good performance.
+
+COMPUTER SOFTWARE COPYRIGHT, NWPU, Xi’an, 2007~2009
+Project Description: The computer software copyright named "Group Decision-making System facing
+SimuroSot 11vs11" is developed for the Robot Soccer FIFA Competition. It is a distributed system facing to
+SimuroSot 11vs11 competition. The whole system has been tested in several national and international
+competitions and got good results. My task is to design and to develop the strategies of goalkeeper and the
+strategies for the midfielder. The structure of the system is developed based on C/C++ program.
+Key Tasks & Achievements:
+
+
+Organize team meeting to discuss the strategies of the 11 robots.
+
+
+
+Develop the module of strategies for goalkeeper and the strategies for midfielder.
+
+
+
+Test the stability of the system when used it in the competition platform.
+
+
+
+Writing the software copyright report.
+
+TECHNICAL EXPOSURE
+
+
+C/C++, Java, Matlab, R
+
+
+
+RDBMS
+
+SELECTED PUBLICATIONS
+Paper:
+
+
+Jin Cui, Hao Wang, Shining. Li, Zhigang Li “Deployment Issues for Robust Time Synchronization in
+WSN", Joint International Computer Science and Information Technology Conference 2011.
+
+
+
+Hao Wang, Yagang Lu, Kin Keung. Lai, “Employee Service Performance Evaluation Model:
+Evidence from Chinas Hospitality Industry." Journal of Service Science and Management(accepted),
+2012.
+
+Book：
+
+
+Shifei Zhou, Hao Wang, Kin Keung Lai, Jerome Yen. "Volatility Surface and Term Structure-based
+Modeling and Analysis High-profit Options Trading Strategies", Taylor & Francis, August 2013.
+
+SELECTED AWARDS
+2007
+
+The National Scholarship of China
+
+2008
+
+First Prize for National Undergraduate Mathematical Contest in Modeling Shaanxi Division
+
+2008, 2009
+
+National Inspirational Scholarship of China
+
+2008
+
+Third Prize in China Robot Competition and RobotCup Open Simulation 11vs11
+
+2009
+
+First Prize in Simulation 11vs11 of the Ninth National Robotics Competition
+
+2010 -2014
+
+UGC-funded Scholarship
+
+LANGUAGE SKILLS
+English:
+
+Fluent Spoken and Written
+
+Mandarin: Fluent Spoken and Written
+Cantonese: Average
+
+

@@ -1,0 +1,122 @@
+Stanley Lap Chiu Fung
+M.A.Sc., FRM, DMS
+
+Email:
+Phone:
+Address:
+
+stanleyflc@gmail.com
+(852) 9311-3179
+Flat C, 15/F, Tower 2, One Silver Sea
+18 Hoi Fai Road, West Kowloon, Hong Kong
+
+QUALIFICATIONS
+Electronic trading professional with over 10 years of product management and client sales
+experience in cash equities and derivatives specializing in execution management systems, portfolio
+management systems, algorithms, dark pool, market microstructure, and trading analytics for
+global institutions, brokers, and hedge funds
+
+EXPERIENCE
+ITG – Hong Kong
+
+September 2015 – Present
+
+Vice President, Electronic Trading Platforms, Client Services
+ Develop and strengthen relationship with institutional and hedge fund clients
+ Identify business opportunities across Asia Pacific electronic trading market by providing firstclass solutions in electronic execution management system and hedge fund platform
+ Present product updates and provide ongoing consulting services to clients
+ Deliver sales presentation to prospective clients, business partners, and sell-side brokers
+ Provide client feedback and market intelligence to internal product team
+
+ITG – Hong Kong
+
+July 2010 – September 2015
+Vice President, Product Manager, Asia Pacific Regional Head for Triton (ITG’s Flagship Broker
+Neutral Execution Management System)
+ Engaged in customer research, requirements gathering, roadmap planning, data analysis,
+enhancement design, product launch, and presentation to internal traders and external clients
+ Managed end-to-end product release of new platform version updates through collaborating
+with stakeholders from Sales, Trading, Marketing, and Operation Support
+ Collaborated with software engineering, trading, and sales teams across Hong Kong, Singapore,
+Bangalore, Melbourne, Boston, New York, Los Angeles, Toronto, and Tel Aviv on global projects
+ Specialized in industry-leading product development methodologies and technologies including
+Agile, .NET, C#, Messaging, Database, and Versioning Control
+ Achieved excellent track record in delivering multiple large-scale and complex trading solutions
+o Multi-Asset Platform – Revamped the execution management system from an equityonly platform to a multi-asset platform with futures and options trading capability
+o Dark Pool and Crossing – Designed and developed the cross reporting system for dark
+pool from scratch by abstracting the market microstructure specifics from upstream
+systems and desk traders
+o Hedge Fund Platform – Served as the regional product expert and collaborated with the
+global development team in deploying a fully automated front-to-back hedge fund
+platform for portfolio and order management, compliance checks, real-time NAV
+calculation, and post-trade reconciliation with prime brokers and external fund
+administration
+Page 1 of 2
+
+Stanley Lap Chiu Fung
+M.A.Sc., FRM, DMS
+
+Email:
+Phone:
+Address:
+
+stanleyflc@gmail.com
+(852) 9311-3179
+Flat C, 15/F, Tower 2, One Silver Sea
+18 Hoi Fai Road, West Kowloon, Hong Kong
+
+EXPERIENCE (continued)
+ITG – Hong Kong
+
+June 2008 – June 2010
+
+Vice President, Lead Trading Strategist
+
+Launched the trading solutions group to support trading desks in Asia Pacific and managed
+every aspect of the project lifecycle including business analysis, planning, resource allocation,
+implementation, and production support
+
+Optimized trading workflows by providing on-site client consultations and customized
+execution management system solutions
+
+Developed the sector index relative algorithm and worked closely with clients and desk traders
+to gather feature requests, perform testing, and conduct training
+
+Built analytic metrics and optimized algorithms for strategic clients
+
+ITG – Toronto, Canada
+
+January 2006 – June 2008
+Trading Strategist
+
+Implemented pair trading software for the proprietary dual-listing equity arbitrary desk
+
+Optimized proprietary arbitrary strategy logic
+
+Performed data analysis and improved the performance of algorithmic servers
+
+Conducted research in performance evaluations, trading analytics, risk and transaction cost
+models
+
+EDUCATION
+University of Toronto – Toronto, Canada
+
+September 2003 – August 2005
+Masters of Applied Science in Electrical and Computer Engineering
+Thesis Topic on Multi-Processor Architecture and Multi-Threading Compiler Design
+Graduated with GPA 3.9/4.0
+
+University of Toronto – Toronto, Canada
+
+September 1999 – May 2003
+Honours Bachelor of Applied Science in Electrical and Computer Engineering
+Graduated with GPA 3.8/4.0
+
+PROFESSIONAL LICENSE
+Hong Kong Securities and Futures Commission – Licensed for Type 1 and Type 7 Regulated Activities
+Canadian Securities Institute – Registered Salesperson and Derivatives Market Specialist
+Global Association of Risk Professionals – Certified Financial Risk Manager
+Chartered Financial Analyst Institute – Passed CFA Level I
+Page 2 of 2
+
+
