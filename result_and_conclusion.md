@@ -3,6 +3,7 @@ Create a way to match a CV/resume to an Assignment. Could simply be searching fo
 
 #### What was challenges did you run into?
 - Data collection
+- Labelling Data
 
 #### Describe your conclusions and results?
 
