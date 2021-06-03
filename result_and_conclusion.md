@@ -4,6 +4,7 @@ Create a way to match a CV/resume to an assignment. Could simply be searching fo
 #### What was challenges did you run into?
 - Data collection
 - Labelling Data
+- Processing data
 
 #### Describe your conclusions and results?
 
@@ -11,6 +12,7 @@ Create a way to match a CV/resume to an assignment. Could simply be searching fo
 #### Is there a potential for further development?
 - Structuring the data in the assignments, adding keywords etc could generally be helpful when user skims/search assignments.
 - Gathering data on what Resume actually got an assignement would be very useful as labelled data.
+- If access would be granted to AFRY resumes then all data would a have a similar format which would help processing greatly.
 
 #### How can we become better at innovation?
 Innovation day is good but one day is not always enough to actually come up with and investigate a particular idea. If AFRY really believes in innovation it could be worth to allocate a full week for projects. An individual wanting to innovate is not always enough, you need to have time and possibly funding.
