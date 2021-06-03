@@ -3,6 +3,9 @@ Create a way to match a CV/resume to an assignment. Could simply be searching fo
 
 #### What was challenges did you run into?
 - Data collection
+	- Finding good and somewhat structured resumes was difficult.
+	- We did not get a very large dataset on assignments.
+	- We did not have enough time for data cleaning/analysis.
 - Labelling Data
 - Processing data
 - Imbalanced Data
@@ -11,7 +14,7 @@ Create a way to match a CV/resume to an assignment. Could simply be searching fo
 #### Describe your conclusions and results?
 - Tfidf works (poorly?) because of the vast amount of dimensions offered by our dataset of resumes.
 - Clustering, KMeans
-- 
+- Collecting data, vetting it, analyze it and potentially reiterate the process takes a lot of time
 
 #### Is there a potential for further development?
 - Structuring the data in the assignments, adding keywords etc could generally be helpful when user skims/search assignments.
