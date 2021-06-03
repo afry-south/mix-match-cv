@@ -17,7 +17,7 @@ Create a way to match a CV/resume to an assignment. Could simply be searching fo
 - Collecting data, vetting it, analyze it and potentially reiterate the process takes a lot of time
 
 #### Is there a potential for further development?
-- Structuring the data in the assignments, adding keywords etc could generally be helpful when user skims/search assignments.
+- Structuring the data in the assignments, adding keywords etc could generally be helpful when user skims/search assignments, but also for this use case.
 - Gathering data on what Resume actually got an assignement would be very useful as labelled data.
 - If access would be granted to AFRY resumes then all data would a have a similar format which would help processing greatly.
 
