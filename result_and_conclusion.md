@@ -1,5 +1,5 @@
 #### What task or questions did you try to solve?
-Create a way to match a CV/resume to an Assignment. Could simply be searching for keyword / experienc.
+Create a way to match a CV/resume to an Assignment. Could simply be searching for keyword / experience.
 
 #### What was challenges did you run into?
 - Data collection
