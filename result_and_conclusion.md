@@ -6,11 +6,12 @@ Create a way to match a CV/resume to an assignment. Could simply be searching fo
 - Labelling Data
 - Processing data
 - Imbalanced Data
+- Multi word Keywords
 
 #### Describe your conclusions and results?
 - Tfidf works (poorly?) because of the vast amount of dimensions offered by our dataset of resumes.
-- KMeans
--  
+- Clustering, KMeans
+- 
 
 #### Is there a potential for further development?
 - Structuring the data in the assignments, adding keywords etc could generally be helpful when user skims/search assignments.
