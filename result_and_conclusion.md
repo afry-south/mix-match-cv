@@ -8,7 +8,8 @@ Create a way to match a CV/resume to an Assignment. Could simply be searching fo
 
 
 #### Is there a potential for further development?
-Yes. Structuring the data in the assignments, adding keywords etc could also be helpful just for searching manually.
+- Yes. Structuring the data in the assignments, adding keywords etc could also be helpful just for searching manually.
+- Gathering data on what Resume actually got an assignement would be very useful as labelled data.
 
 
 #### How can we become better at innovation?
