@@ -17,9 +17,11 @@ Create a way to match a CV/resume to an assignment. Could simply be searching fo
 - Collecting data, vetting it, analyze it and potentially reiterate the process takes a lot of time
 
 #### Is there a potential for further development?
-- Structuring the data in the assignments, adding keywords etc could generally be helpful when user skims/search assignments, but also for this use case.
+- Structuring the data in the assignments, adding keywords, sections etc could generally be helpful when user skims/search assignments, but also for this use case.
 - Gathering data on what Resume actually got an assignement would be very useful as labelled data.
-- If access would be granted to AFRY resumes then all data would a have a similar format which would help processing greatly.
+     - Are we tying the assignment IDs to CVs today? I don't think so. You could write something like "I worked on assignment #<assignment-ID>" and create a a more data-robust mapping/relationship
+- If access would be granted to AFRY resumes via e.g. an API then all data would a have a similar format which would help processing greatly.
+- If at least some of the bullet points above could be crossed out, you could just make a better search algorithm and we would've already improved it quite a lot without any ML-driven searching/matching. ML is cool, though, and could improve it further.
 
 #### How can we become better at innovation?
 Innovation day is good but one day is not always enough to actually come up with and investigate a particular idea. If AFRY really believes in innovation it could be worth to allocate a full week for projects. An individual wanting to innovate is not always enough, you need to have time and possibly funding.
