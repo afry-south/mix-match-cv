@@ -11,10 +11,15 @@ Create a way to match a CV/resume to an assignment. Could simply be searching fo
 - Imbalanced Data
 - Multi word Keywords
 
+Access to AFRYs database would help greatly.
+
 #### Describe your conclusions and results?
-- Tfidf works (poorly?) because of the vast amount of dimensions offered by our dataset of resumes.
+Find a demo live [here](https://share.streamlit.io/afry-south/mix-match-cv/main/deployment.py).
+
+- TfIdf works out pretty good.
 - Clustering, KMeans
 - Collecting data, vetting it, analyze it and potentially reiterate the process takes a lot of time
+- Data Understanding should've been a larger step than it was, yet it was large enough to take time from modelling.
 
 #### Is there a potential for further development?
 - Structuring the data in the assignments, adding keywords, sections etc could generally be helpful when user skims/search assignments, but also for this use case.
