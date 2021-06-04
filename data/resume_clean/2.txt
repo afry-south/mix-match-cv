@@ -1,0 +1,38 @@
+Hampus Londögård 
+
+SOFTWARE DEVELOPER/ENGINEER 
+
+As a person I always strive to develop and improve my abilities. This I do by constantly trying to go outside of my sphere of security. This is one of the reason of why I started developing Android-apps. Developing apps meant that I had to not only consider effectiveness but also UX & design. 
+  
+
+Personally I'm very engaged and effective. Currently outside of my role as a consultant I am the driver of a competence group at ÅF in Natural Language Processing / Machine Learning. I'm also developing apps & small projects in my spare time. 
+ 
+
+Personally outside of coding I deeply enjoy sports, gaming & hanging out with friends - perhaps cooking a dinner together? 
+ 
+Extra: 
+ 
+
+Currently working as Competence Group Driver in Machine Learning (focus Deep Learning & Natural Language Processing) & am also co-responsible for Competence at ÅF IT SOUTH 
+
+Android, Android 8.0, Android SDK, Android Studio, C#, deep learning, GIT, GitHub, Haskell, Java, Javascript, JSON, Jupyter Notebook, Kotlin, Linux, Mac OS, Machine Learning, Machine Learning Algorithms, Matlab, MySQL, Natural Language Processing (NLP), Neural Network, Python, Scala, Scrum, Språkteknologi, SQL, SQL- database, sqlite, Unity3D
+
+Civilingenjör - Datateknik
+
+Civilingenjör - Datateknik, Master
+
+Natural Language Processing [Advanced Machine Learning & Deep Learning] [Coursera]
+
+Advenica Utvecklingsingenjör
+
+Flatfrog Utvecklingsingenjör
+
+ÅF Software Engineer
+
+On site assignment at one of the largest companies in the world
+
+Working with SW development for data validation of large geospatial datasets.
+
+Development of applications and Tools to support an efficient process
+
+Tech: Scala, Javascript, a bit Spark

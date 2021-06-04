@@ -1,0 +1,18 @@
+Electronic design lead, Referens 19481
+Ansök här
+Uppdragsbeskrivning och krav
+To our client a well know tier 1 supplier to all major Commercial Vehicle OEM we are now looking for a consultant.
+
+Profile:
+An interest in vehicles and vehicle electronics
+Previous work experience within electronics development
+A master’s degree or similar and at least 3-5 years of experience in development of electronics for embedded systems
+Pronounced team player and with team leader skills
+Active in communication, cooperation and with a customer oriented way of working
+Experience of advanced SoC, MCU:s, RAM, nand flash, EEPROM, high speed signals and general digital design.
+FPGA knowledge is meritorious.
+Knowledge within telecom and modems is meritorious
+Knowledge in camera technology and high speed digital camera interfaces is meritorious.
+
+Övrig relevant information
+Är du tillgänglig och uppdraget känns intressant, klicka på knappen "Ansök här". Innan du svarar på ett uppdrag, var noga med att din kompetensprofil (CV) är uppdaterad, korrekt och tydligt beskriver att du är lämplig för uppdraget.

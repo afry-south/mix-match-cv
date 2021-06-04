@@ -1,0 +1,60 @@
+Embedded Software Application Engineer within Charging System, Referens 21709
+Ansök här
+Uppdragsbeskrivning och krav
+Responsibilities
+You will be responsible for the functional part of the control unit that communicates with the charging
+station for electric vehicles according to the applicable standards for CCS charging and pantograph on
+roof. The work is done in tight collaboration with the hardware responsible engineer for the control unit,
+test engineers, other system engineers within the same function area and with the suppliers for the parts.
+
+Electromobility use Agile work methods meaning that you will belong to a team with a product
+responsibility over time of several components: both units installed in customer used vehicles and for
+future development.
+
+Typical tasks within the team
+• Drive the functional development of sourced (bought) components from early specifications all the
+way to a final product in production.
+• Write software/functional requirement specifications
+• Review supplier tests and support additional in-house tests to validate supplier software in rigs and in vehicle
+• Make SW releases
+• Drive diagnostic and fault handling strategy
+• Solve maintenance issues
+• Ensure control unit design being aligned with functional safety requirements
+• Ensure, together with other experts, that the control unit is in line with cyber security
+
+Competencies:
+Communicates effectively - Is effective in a variety of communication settings: one-on-one, small and
+large groups, or among diverse styles and position levels. Attentively listens to others. Adjusts to fit the
+audience and the message. Provides timely and helpful information to others across the organization.
+Plans and aligns - Focuses on highest priorities and sets aside less critical tasks. Lays out a thorough
+schedule and steps for achieving objectives. Looks for obstacles and develops excellent contingency
+plans. Uses milestones to diligently track and manage the progress of the work.
+Demonstrated technical leadership
+Result oriented, challenging the current normal
+Fluent in English - verbal and written
+
+English only is sufficient language skill for this assignment
+Övrig relevant information
+Personal attributes
+Ability to take decisions based upon facts and engineering judgement
+Engagement & inspire – drive for results and performance excellence in teams
+Confidence – believe in own ability to influence positive outcome
+Drives for results and customer value
+Structured and creative
+Passionate about networking across all functions to achieve shared objectives
+
+Knowledge:
+Embedded system development
+AUTOSAR
+Communication per CAN and PLC
+Knowledge of ISO 26262
+
+Experience - Work:
+M.Sc. in Electronics, Data Science, Software engineering, Mechatronics or similar
+4 - 6 years of experience of working with product development and supplier contacts
+4 - 6 years of experience of control units using communication protocols within the automotive charging area such as ISO 15118, DIN 70121, SAE J2847 and J3068
+4 - 6 years of experience from electric vehicles and the electric propulsion system
+Documented experience from working in an Agile development environment
+
+Är du tillgänglig och uppdraget känns intressant, klicka på knappen "Ansök här". Innan du svarar på ett uppdrag, var noga med att din kompetensprofil (CV) är uppdaterad, korrekt och tydligt beskriver att du är lämplig för uppdraget.
+

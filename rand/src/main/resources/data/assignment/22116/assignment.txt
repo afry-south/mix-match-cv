@@ -1,0 +1,27 @@
+Java Developer, Reference 22116
+Apply here
+Assignment Description and Requirements
+To strengthen the clients team running maintenance, development and support for the logistical part of their production system. They are in a transformation journey with technology shifts and need to keep up speed being able to deliver. The pace is high so you need to be stress-resistant and self going.
+
+Personal skills include: creative, curious, structured and a true team player.
+See technical and other requirements below.
+
+JAVA
+· Basic knowledge in object orientation.
+· Basic knowledge in JAVA programming (client using JAVA version 8).
+
+Web service
+· Experienced in development of REST API's, framework Spring and IDE tool IntelliJ.
+· Experienced user of MAVEN as compilation and packing tool.
+· Experienced user of API management tool WSO2 and KeyCloak.
+
+* Experience in integration transformation, going from app-centric to data-centric.
+* Experience with application development and maintenance (preferably production systems, logistic systems).
+* Experience working with PL/SQL (preferably Oracle Forms and Reports).
+* Knowledge of agile way of working.
+* Fluent written and spoken in English is mandatory.
+* Preferably fluent written and spoken in Swedish.
+
+English only is sufficient language skill for this assignment
+Other relevant information
+Are you available and the assignment seems interesting, click the "Apply now". Before you respond to an assignment, make sure that your skills profile (CV) is updated, correct and clearly describing your suitability for the job.

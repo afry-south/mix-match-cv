@@ -1,0 +1,28 @@
+Senior Systems Engineer, Automotive, Reference 23185
+
+Assignment Description and Requirements
+Assignment:
+• Defining and analyzing customer software & systems requirements and technical specifications
+• Defining product functionality and creating technical documentation, supporting or leading investigations and securing software releases
+• Define System Design for a specific System Function or System Domain. Negotiate design with System Architect and design stakeholders
+• Active cross-functional cooperation with software, hardware, testing and validation engineers, both in Sweden and spread out all over the world
+• Maintaining cooperation between the technical center and the production department in the field of the developed product
+• Active cooperation with the client, representing Aptiv in client discussions, meetings and investigations
+• Supervising the implementation process and implementation of requirements, including close collaboration with internal and external suppliers
+• Monitoring technical and formal aspects of product development, securing quality standards
+• Participation in project meetings, presentation of work results in front of the client
+• Be part of an Agile team supporting each other, working with the project leaders to secure project deliverables, coordinating with other SCRUM teams within each product area, in an international environment.
+
+Preferred profile:
+• You have a higher education with an engineering profile
+• Experience as a system engineer, programmer, tester, quality engineer or similar
+• Basic knowledge of electronics and microprocessor systems (embedded systems)
+• Knowledge of CAN, LIN, MOST, FlexRay and Ethernet as well as experience in dealing with the corresponding development tools is preferred
+• Experience from working with Agile Methodology is preferred
+• Functional safety/ISO 26262 experience or experience from safety critical systems development when assigned to ASIL classified function/ domain is preferred
+• Highly developed communication skills, high level of professionalism in contact with our clients, and able to manage cross-functional activities
+• Responsibility and timely implementation of tasks, and ability to work within a strict time frame
+• Desire to continuously increase your knowledge and search for solutions
+• Fluent in English
+
+English only is sufficient language skill for this assignment

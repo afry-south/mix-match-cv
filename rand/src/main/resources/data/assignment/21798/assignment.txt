@@ -1,0 +1,27 @@
+AD System & Function Designer - Automotive, Referens 21798
+Ansök här
+Uppdragsbeskrivning och krav
+We are looking for an engineer with +3 years of experience from in function and system design to help the team develop safe AD functions with desirability and robustness.
+
+You will use your experience and competence to develop and define robust system designs and technical solutions to secure complete customer function behavior and attribute experience. You will collaborate with a large interface to other teams that needs to contribute to the development of the Highway Pilot function.
+
+Agile, cross-functional and collaborative way of working is natural for you to reach high quality results in time. You are a committed and trusted team worker and the team’s achievements are essential to you.
+
+Do you fit the profile?
+We believe that you have:
+• knowledge in ADAS functions from previous work (function development or verification) and driving
+• experience from advanced function- and system designs, systemisation and modelling not limited to ADAS functions
+• experience from requirement development and and decomposing of requirements on different abstraction layers
+• experience from working with or contributing to architecture designs for systems involving SW, sensors and ECUs
+• experience from systemization of safety critical functions and therefore knowledgeable in how to apply the standards ISO26262 and SOTIF
+• MSc degree in Systems, control and mechatronics, Data Science, Computer engineering, Engineering Physics or equivalent from experience
+• fluent in English, spoken and written
+
+
+English only is sufficient language skill for this assignment
+Övrig relevant information
+Meritorious
+• experience from Scrum or Kanban based teamwork
+
+Är du tillgänglig och uppdraget känns intressant, klicka på knappen "Ansök här". Innan du svarar på ett uppdrag, var noga med att din kompetensprofil (CV) är uppdaterad, korrekt och tydligt beskriver att du är lämplig för uppdraget.
+

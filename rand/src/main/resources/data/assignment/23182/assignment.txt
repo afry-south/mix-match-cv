@@ -1,0 +1,25 @@
+Android SW Integrator/Developer, Reference 23182
+Apply here
+Assignment Description and Requirements
+Requirements:
+BSc or MSc in software engineering or equivalent
+A deep understanding of embedded platforms specifically as Linux, Android Automotive
+Automotive, embedded, or infotainment systems development experience.
+Knowledge of Automotive communication standards such as LIN, CAN, Ethernet, Flexray
+Experience using Vector tools
+In-Depth knowledge of android automotive and embedded Linux build systems and tool chains, especially embedded fault finding, deep anaylsis, and knowledge of Low-level Linux.
+Hands-on experience with hardware embedded devices with good fault tracing and debugging capabilities.
+Strong multitasking ability, initiative and have high level of quality awareness.
+Knowledge of Linux based Host environment and tools.
+Strong problem solving skills with a willingness to deep dive into technical issues
+Good understanding of agile project methodology, e.g. Scrum and Kanban.
+Basic understanding of systems engineering and requirements management
+Fluent in English written and verbally
+A good understanding of C, C++ and Java
+Experience in handling factory Software releases and process.
+Dockers and Containers.
+Good scripting ability (Python, Bash, or other Scripting language)
+Excellent understanding of Version control, Build Management using Git/Gerrit/Jenkins/Artifactory
+Use of Jira, Confluence, Polarion project tools.
+
+English only is sufficient language skill for this assignment

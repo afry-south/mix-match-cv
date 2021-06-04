@@ -1,0 +1,36 @@
+SW engineer with extensive Test Automation, Infotainment , Reference 23512
+Apply here
+Assignment Description and Requirements
+SW engineer with extensive Test Automation development experience
+
+Short description of need
+===================
+We need to reinforce and accelerate the development of next generation Telematics and Connectivity platform, enabling a global connectivity functionality.
+Our cross-functional development teams need to secure the design, implementation and testing/verification of the features. The QA part needs to be done by means of automated test frameworks to the highest extent possible.
+
+Competence Requirements – Experience and background
+============================================
+* Master degree or equivalent in Software- or/and Electrical Engineering, or equivalent experience.
+* Development of Test Automation frameworks (both Windows and Linux environment)
+* Test methodologies like System, Integration and Component testing
+* Python / Robot framework
+* HIL testing
+* Experience of test development in CI/CD environment
+* Knowledge of GIT/GERRIT, Jenkins or other CI tools
+* Communicative in speech and writing
+* Driving license
+
+
+Meritorious qualifications
+====================
+* Manual testing
+* Embedded C/C++
+* Application development in C++
+* Agile SW development
+* Experience of working in a cross-functional team
+* Experience of testing in automotive industry
+* Communication protocols: CAN, Flexray, LIN, Ethernet
+* Experience in automotive Vector tools like CANoe/CANalyser
+
+Other relevant information
+Are you available and the assignment seems interesting, click the "Apply now". Before you respond to an assignment, make sure that your skills profile (CV) is updated, correct and clearly describing your suitability for the job.

@@ -1,0 +1,39 @@
+Software developer and test engineer - Energy Management - Automotive, Referens 21796
+Ansök här
+Uppdragsbeskrivning och krav
+We are looking for a software developer and test engineer to our Clients Energy Manager Development team, which currently consists of seven fun and curious engineers with a diverse background. The team’s main responsibility is the develop and deliver verified software components within the area of Vehicle Energy Management and Driver Coaching, making up functionalities like; Electrical Distance to Empty (range prediction), route based optimized charge/discharge of electric energy, predictive thermal management, smart pre-conditioning, eco coach, etc. The purpose is to minimize the energy consumption of the vehicle, actively or by coaching the driver. Solutions are developed for all types of vehicles (hybrids and fully electric).
+
+We seek someone who is open minded and curious with a good ability to cooperate. You have good communication skills, both orally and in writing, and the ability to cope with many topics in parallel. You are a technical-minded team player who appreciate to work with different cultures. Besides being customer focused, you have a strong analytical capability, is structured and organized in daily work.
+You have 3-5 years of work experience in the relevant field, and holds a bachelor, Master or PhD degree in engineering.
+You bring experience from software development, preferably both model based and C++/Java. If you have extensive testing experience it is highly appreciated (mainly unit testing and MIL/SIL)
+Knowledge of low level programming as well as experience of agile development methods is meritorious.
+We assume that you communicate fluently in English (speech and writing) and have a driving license (level B) enabling testing in vehicles.
+
+Main responsibilities
+• Break down incoming requirements
+• Implement and verify new functionality
+• Design test cases and perform tests
+• Document the solution and write calibration guidelines
+• Contribute with a broad perspective of technical details
+
+Required qualifications
+• Experience of software development in Matlab/Simulink/TargetLink
+• Experience of unit testing in SIL environment
+• Experience from automotive software development
+• Experience from scrum is a merit
+• Knowledge of low level programming is a merit
+• University degree in engineering (Bachelor, Master or PhD)
+• Fluent in English (spoken and written)
+• Driver license (level B)
+
+Personal qualities
+• Ambitious and driven
+• A team-player with high communication skills
+• Ability to put end customer in focus
+• Result-oriented and make things happen
+• Structured with good ability to plan daily and future work effectively
+
+English only is sufficient language skill for this assignment
+Övrig relevant information
+Är du tillgänglig och uppdraget känns intressant, klicka på knappen "Ansök här". Innan du svarar på ett uppdrag, var noga med att din kompetensprofil (CV) är uppdaterad, korrekt och tydligt beskriver att du är lämplig för uppdraget.
+

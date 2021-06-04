@@ -1,0 +1,25 @@
+Senior SW Developer - ADAS/AD - Automotive, Referens 21794
+Ansök här
+Uppdragsbeskrivning och krav
+To our Client we are looking for a Senior SW developer with competence in C++, MatLab/Simulink and Python to their Safe Driver SW team.
+
+Driver State evaluation is an important area for safety development and you will be given the opportunity be part of shaping that. The main responsibility is to develop SW for Driver State evaluation based on data analysis and to extract and analyze scenarios from field test data to improve and adapt the SW. You will do this in collaboration with function developers, attribute leaders and suppliers where your responsibility is to secure the SW development.
+
+Who you are?
+You are a senior SW developer with good analytical skills.
+A self-driven and proactive team player with high ambitions.
+You have a strong ability to blend into a team on short notice.
+You are curious, always eager to learn and innovative.
+You care about people and you like to take responsibility for getting things done.
+You have documented competence and experience in SW development and testing.
+You will use your seniority and experience to create stable SW and can guide others to create good and reliant SW.
+You have experience from developing SW for safety critical systems, preferably according to ISO26262.
+In creating SW we use tools like Polyspace, GTest Framework, TestWeaver Silver, Git/Gerrit. Experience using these tools are meritorious.
+
+Fluency in spoken and written English is required.
+Driver’s license B is required.
+
+English only is sufficient language skill for this assignment
+Övrig relevant information
+Är du tillgänglig och uppdraget känns intressant, klicka på knappen "Ansök här". Innan du svarar på ett uppdrag, var noga med att din kompetensprofil (CV) är uppdaterad, korrekt och tydligt beskriver att du är lämplig för uppdraget.
+

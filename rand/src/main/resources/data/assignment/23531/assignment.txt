@@ -1,0 +1,59 @@
+Safety Manager - Autonomous Vehicles, Reference 23531
+Apply here
+Assignment Description and Requirements
+As an Initiative Safety Manager you will be end-responsible for the overall safety Autonomous initiatives. Your involvement already starts during the analysis / contract negotiation phase where you identify and asses safety risks. Deployment of Initiatives starts after contract signage, implementing R&D developed solutions in specific Operational Design Domains. You plan, assess, execute and sign off on activities that assure and demonstrate that the solution is ‘autonomous ready’, before it will be used in operations and that it is continuously safe under operations. Activities include, but will not be limited to:
+
+• Own the safety strategy for autonomous initiatives from deployment to operations, based on the solutions and related safety concepts developed by R&D
+• Work with cross-functional teams to, during all project phases (concept, requirements, design, and verification & validation) identify, plan, establish, coordinate and follow up on initiative safety related activities, needed to fulfil the initiative safety goals and requirements
+• Develop and maintain safety standards and procedures to manage safety risks, ensuring prompt follow-up and resolution. Definition of requirements for safety verification and validation
+• Set-up and manage Initiative Safety Groups
+• Identify and asses safety risks, hazards and causes and determine mitigation measures.
+• Development of safety concepts, plans and procedures per initiative in accordance with relevant safety standards. Planning and tracking of work packages and tasks in accordance with the safety plan. Initiate, establish and maintain safety cases
+• Develop, plan and implement periodic conformation reviews, audits and safety assessments and reporting. Perform qualitative and quantitative analysis
+• Evaluating and ensuring compliance with company-, and relevant legal functional safety standards
+• Oversee and implement the elements of the incident process including coordination of reporting, investigation, documentation and follow-up
+• Monitor safety driver qualification and safety records
+• Establish and maintain all relevant internal and external interfaces (e.g. customer, supplier, development team, manufacturing sites). Co-ordinate with colleagues that are responsible for solution safety and security and participate in product road mapping and in new product concept development. Coordinate development teams in performing safety analysis and analysing the results with respect to the technical safety concept. Guide and support the organization with safety expertise
+
+• Optional: (In time) build, lead and manage a team of Functional Safety engineers
+• Assess, plan, implement and evaluate learning and development programs
+• Keep up to date with relevant trends and best practices. Assess and contribute to relevant upcoming standards in safety for autonomous driving.
+• Promote a safety culture in Autonomous Solutions
+
+English only is sufficient language skill for this assignment
+Other relevant information
+Competence profile
+
+Your Profile
+
+For this role we are looking for persons that are structured- and keen detailed oriented problem-solvers with a pragmatic and solution-minded attitude. You provide leadership in defining, implementing, and improving relevant Safety processes. You obtaining results independently, as well as motivating people around you to work towards common goals and agreed upon targets. You need to be highly communicative and goal-oriented.
+
+Requirements
+
+• Bachelor's Degree, Master's Degree, or PhD in an engineering discipline such as Computer Science, Electrical Engineering, Mechanical Engineering, Embedded Software or System Control Strategy.
+• 10+ years professional experience in automotive- or aerospace functional safety management or in a closely related role such as integrating complex automotive or robotic systems.
+• Proven hands-on track record of successes, e.g. having successfully managed functional safety analyses of a system or product to make it safer and delivered it to market.
+• 5+ years of experience in building and managing high-performance teams
+• Interdisciplinary understanding and proven knowledge of systems engineering approaches (requirements engineering / management of functional analysis and allocation, architecture design, validation and verification), embedded HW & SW development, test and production. Experience with change & configuration management. Thorough system knowledge (ECU, Sensors, Software).
+• Strong working knowledge of Road Vehicles Functional Safety standard ISO 26262, SOTIF (ISO/PAS 21448) or similar Functional Safety standards (e.g. IEC EN 61508, ISO 13849, US RTCA DO-178B, US RTCA DO-254, IEC EN 62304, etc.).
+• Proven track record as a Functional Safety manager and with safety analysis methods (e.g. Hazard Analysis and Risk Assessment, Fault Tree Analysis, Failure Modes, Effects, and Diagnostic Analysis, SW Safety Analysis, System-theoretic Process Analysis etc.)
+• General (cyber-) security knowledge
+• Attention to detail and rigorous testing methodology – passion for excellence
+• Independent, hands-on problem solver at different levels with an analytical mindset and a proven track record of problem solving. Takes clear ownership of tasks
+• An enthusiasm for cutting-edge innovation in self-driving technologies and safety products, combined with an ability and a mindset to learn new things and evolve processes to a fast-paced and ever-changing environment
+• Competence to influence across organizations, effectively leading change, originating ideas, gaining commitment. Strong organizing, mentoring and team building skills
+• Capable of responding quickly to changing and potentially high-pressure environments - being on call for larger incidents
+• Good risk management skills
+• Strong communication, documentation and presentation skills
+• Fluency in English (written and spoken)
+• Willingness to regularly travel internationally
+
+
+Meriting
+
+• Direct experience in autonomous driving industry with e.g. ADAS integration, cyber security processes and experience with working in Agile development environments.
+• Relevant safety standards certification. Experience with UL4600 is highly meriting.
+• Experience with actual commissioning & operations of safety critical systems
+• Hands-on experience with (cyber-) security management
+
+Are you available and the assignment seems interesting, click the "Apply now". Before you respond to an assignment, make sure that your skills profile (CV) is updated, correct and clearly describing your suitability for the job.

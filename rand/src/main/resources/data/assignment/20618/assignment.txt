@@ -1,0 +1,16 @@
+Test Developer Engine Control Systems, Reference 20618
+Apply here
+Assignment Description and Requirements
+We are looking for a Test Developer within Engine Control Systems with 2-5 years of experience for one of our automotive client.
+
+We believe that you have:
+• M.Sc. or B.Sc. in Embedded System, Mechatronics, Computer Science or similar
+• Good programming skills, Python or similar, is required
+• Experience in testing of embedded systems is required
+• Test automation, preferably against HIL- and/or SIL-environments, is required
+• Experience from automotive development, preferably within powertrain control systems, is an advantage
+• Vehicle Interest and/or C/D driver license is an advantage
+
+English only is sufficient language skill for this assignment
+Other relevant information
+Are you available and the assignment seems interesting, click the "Apply now". Before you respond to an assignment, make sure that your skills profile (CV) is updated, correct and clearly describing your suitability for the job.

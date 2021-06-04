@@ -1,0 +1,17 @@
+SW developer C++, Reference 22758
+
+Assignment Description and Requirements
+For a customer in Trollhättan we are looking for an experienced SW developer.
+
+Required knowledge:
+- Linux
+- C/C++
+- GIT
+
+Meritous knowledge:
+- Qt
+- Jira
+- Yocto
+- Raspberry Pi
+- Experience from automotive, CAN-kommunication
+- Experience from agile work

@@ -1,0 +1,11 @@
+Academic writing, Agile , Extreme Programming, FEA, Försvarsmakten, GIT, GitHub, IntelliJ
+IDEA, Java, Javascript, JSON, Matlab, NASTRAN, Noise and vibration issues - Other, Object
+oriented programming, PTC Creo, Python, Scala, Scrum, Scrum Master, Solid Mechanics,
+Solid Mechanics Basic course, Spark, Scala , Structural Dynamics, Test Driven Development,
+Typescript
+
+Mechanical and Aerospace Engineering (Exchange Semester), Bachelor
+
+Mechanical Engineering, Computational Mechanics, Master
+
+Competences: Spark, Scala , Typescript, Scrum Master, Python, Javascript, Agile , Java, Scala

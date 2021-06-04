@@ -1,0 +1,33 @@
+Embedded SW Process Developer, Reference 23364
+Apply here
+Assignment Description and Requirements
+For an automotive customer we are looking for an Embedded SW Process Developer. The area is within vehicle dynamics control systems.
+
+We expect you to take ownership and drive the SW process development to a maturity level of ASPICE/CMMI level 3. We work in a highly automated software environment using system supporting SIL, MIL and HIL testing, including system simulators and vehicles. We work mainly in C++ to develop our test cases, but in a flora of different tools ranging from in-house built to standard automotive tools like CANoe. Our SW is mix of generated code and manual C++. We strive towards automated and continuous development, integration and deployment.
+
+If you have a background in mechatronics and have steered your professional career towards embedded software development or if you are a senior embedded SW developer with a genuine interest in vehicle dynamics you would be a perfect fit.
+
+Qualification:
+- Minimum 5 years of embedded software development experience (implementation and verification of embedded systems) and automated testing
+- Documented experience in process development of embedded SW using ASPICE, CMMI, ISO26262
+- You have a M.Sc. degree in IT, Computer Science, Mechatronics, Control engineering, Electronics or equivalent.
+- Experience of software product development, testing or big data
+- Have experience in writing automated tests in at least one automated testing framework.
+
+Previous work experience:
+- Knowledge and experience of the following concepts:
+- Embedded C/C++
+- Unit testing
+- Have at least 5 year of experience in system and integration testing.
+- Experience from Agile organizations
+- Ability to work independently and good debugging skills.
+- Knowledge in Configuration Management and Continuous Integration using tools as GIT and Jenkins
+- ISO26262
+- Hands on experience of a requirement management tool e.g. system weaver tool.
+- Good knowledge of Autosar methodology
+- Good understanding of system development of embedded real time systems
+- Good understanding of model based development (Matlab/Simulink)
+- Documented experience from process development using SPICE/APICE and/or CMMI and/or 7740
+
+Other relevant information
+Are you available and the assignment seems interesting, click the "Apply now". Before you respond to an assignment, make sure that your skills profile (CV) is updated, correct and clearly describing your suitability for the job.

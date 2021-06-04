@@ -1,0 +1,25 @@
+System design engineer: Electric & Electronic system powering management, Reference 22658
+Apply here
+Assignment Description and Requirements
+We are looking for a Systems Engineer for Electric & Electronic system powering management.
+The Electronic Embedded System department is responsible for the overall electronic system used commonly in all machines. This requires the system to be modular, scalable, flexible, etc.
+Your role in the project will be as Systems Engineer with focus on Electric system. You will together with the project team, investigate, develop and document the system functionality required to meet the needs for different implementations of EE system in VCE machines. The work will include finding solutions to secure that the EE powering management system supports regular 12V/24V system services, connectivity services, electromobility services and autonomous services
+Drive the work from an operational and short-term perspective. Participate in specification implementation and verification loops to secure system aspects of the solution.
+You are expected to be customer-oriented, flexible, self-sufficient and have technical knowledge and big interest in many different areas within Electrical and Electronic systems. You have strong drive and good innovation and communication skills.
+
+Task:
+• Define electrical system principles such as behaviors and electrical component properties
+• Describe use cases together with users
+• Develop concept proposals and evaluate them
+• Identify and specify electrical component properties
+
+Competence / Experience:
+• BSc or MSc degree in Electrical/Electronic Engineering or equivalent
+• Experience of working with electrical and/or electronic system in the automotive industry
+• Good understanding of robust and reliable system/software engineering/design principles
+• Proficient documentation skills
+• Fluent in English and Swedish, both written and spoken
+
+English only is sufficient language skill for this assignment
+Other relevant information
+Are you available and the assignment seems interesting, click the "Apply now". Before you respond to an assignment, make sure that your skills profile (CV) is updated, correct and clearly describing your suitability for the job.

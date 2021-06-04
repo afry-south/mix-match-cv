@@ -1,0 +1,19 @@
+Product owner / developer Gitlab, Reference 23226
+
+Assignment Description and Requirements
+We are looking for a Gitlab product owner/developer for our customer in Mälardalen working within automotive industry
+
+You should have at least 3-4 years of experience within the areas below
+
+Eperience/Skills:
+Gitlab - expected senior competence on architectural and maintenance level
+DevSecOps
+Cloud Infrastructure as code (IaC)
+Agile way of working
+
+Good to have:
+Python experience
+
+English only is sufficient language skill for this assignment
+Other relevant information
+Are you available and the assignment seems interesting, click the "Apply now". Before you respond to an assignment, make sure that your skills profile (CV) is updated, correct and clearly describing your suitability for the job.

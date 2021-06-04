@@ -1,0 +1,20 @@
+Test Engineer in Automotive, HIL-rigs for automation testing (3-6 HC), Referens 20431
+Ansök här
+Uppdragsbeskrivning och krav
+Competence and experience
+The candidates need to have proven skills in:
+• Test Automation
+• HIL testing
+• Automotive domain, preferably within Infotainment area including Diagnose, FlexRay, Ethernet,
+CAN
+• CAPL, CANoe/CANalyzer and WireShark
+• Robot framework
+• CI including Jenkins
+• Linux as main operating system
+
+It is highly meritorious to have background in
+• Python programming
+• SAFe
+
+Övrig relevant information
+Är du tillgänglig och uppdraget känns intressant, klicka på knappen "Ansök här". Innan du svarar på ett uppdrag, var noga med att din kompetensprofil (CV) är uppdaterad, korrekt och tydligt beskriver att du är lämplig för uppdraget.

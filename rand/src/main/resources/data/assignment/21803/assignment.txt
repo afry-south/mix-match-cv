@@ -1,0 +1,27 @@
+AD/ADAS HIL Engineer - Automotive, Referens 21803
+Ansök här
+Uppdragsbeskrivning och krav
+We are looking for a HIL Engineer within ADAS/AD.
+
+Together with your colleagues, you will define, set up and configure dSpace HIL environments supporting our current and future projects.
+
+You will be doing modeling work with Matlab, Simulink and you will be enabling HIL test automation, moving us towards “Continuous Integration”. We know that you are a curious, problem solving person with and a True Team player mindset who works effectively together with others to achieve results. You are flexible and can handle multiple parallel tasks at the same time. You are driven, quality conscious and you are inspired by technical – and process related challenges.
+
+Requirement Profile
+You have a M.Sc or a B.Sc within Electronics, Physics, Mechatronics, Software Engineering or similar.
+You have at least 3 years of relevant work experience.
+You have knowledge in vehicle communication such as CAN, LIN, Flexray, Ethernet as well as programming skills in Matlab or Python.
+You have previous experience in model development in Simulink and you are familiar of working according to Agile methods.
+
+Experience/Knowledge from
+• Working in HIL environments such as dSpace or Vector
+• Knowledge in vehicle/traffic simulation
+• Knowledge in integration of sensor technologies (radar, camera, lidar, ultrasonic etc)
+• Knowledge in vehicle dynamics • Verification in vehicles at system or functional level or experience from test automation
+
+English only is sufficient language skill for this assignment
+Övrig relevant information
+• Meritorious: Knowledge from development of vehicle software within: o Hybrid and/or electric vehicle development o Active Safety o Connected Vehicles o Power Train o Brake
+
+Är du tillgänglig och uppdraget känns intressant, klicka på knappen "Ansök här". Innan du svarar på ett uppdrag, var noga med att din kompetensprofil (CV) är uppdaterad, korrekt och tydligt beskriver att du är lämplig för uppdraget.
+

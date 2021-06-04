@@ -1,0 +1,92 @@
+Yang Yue
+Mobile: 96482096
+
+E-mail: yy96563@126.com
+
+EDUCATION
+l National University of Singapore (NUS)
+
+Aug.14－Jun.16
+
+§
+
+Master of Quantitative Finance
+
+§
+
+CAP: 4.33/5.0
+
+§
+
+Main course: Stochastic Analysis, Financial Modeling, Mathematical Finance
+
+l Central University of Finance and Economics (CUFE)
+§
+
+Bachelor of Accounting
+
+§
+
+CAP: 3.61/4.5
+
+§
+
+Main course: Accounting, Auditing, Tax Law, Corporate Finance
+
+Sep.10－Jun.14
+
+QUALIFICATION
+l CICPA (the Chinese Institute of the Certified Public Accountant)
+§
+
+The certification of certified public accountant in China
+
+l Pass all three levels of CFA (Charted Financial Analyst)
+
+WORK EXPERIENCE
+l Upskills, Junior Finance IT Consultant
+
+Nov.15－Present
+
+§
+
+DBS Front Office Business Analyst, Migration of Mx 3 project for DBS
+
+§
+
+Calculate client’s deals’ PL and sensitivity if there is a difference between Mx2 and
+MX3
+
+§
+
+Write some pretrade codes to control the whole process of deal booking and pricing
+
+RESEARCH EXPERIENCE
+l Research on callable bull contract with the underlying of HIS
+
+Apr.15－Jul.15
+
+§
+
+Used the option data to calculate the implied volatility
+
+§
+
+Priced the contract using the Monte Carlo simulation and binomial tree method
+
+l Research on SPY (SPDR S&P 500 ETF Trust)
+§
+
+Used the data to do the calibration of Heston Model
+
+§
+
+Used the data to calculate the corresponding VIX
+
+Mar.15－Apr.15
+
+OTHER INFORMATION
+l Proficient in Microsoft Office and be able to use VBA, Matlab, R and C++
+l Fluent in English and Mandarin (both spoken and written)
+
+

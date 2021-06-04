@@ -1,0 +1,26 @@
+Embedded SW Engineer, Reference 23189
+Apply here
+Assignment Description and Requirements
+Requirements:
+We believe you are a passionate embedded software engineer with at least a few years of relevant work experience. You have a university degree in Software Engineering or equivalent.
+You are known as a team player with an open mindset.
+You have knowledge of and relevant experience with:
+- Embedded systems
+- Linux
+- C/C++
+- Script languages
+- Hardware near debugging (schematics, logic analyzer, board-bringup).
+- Linux kernel is meritorious
+- Git, Gerrit, Jenkins
+- Jira, Confluence
+- Agile software development process
+- QNX is meritorious
+
+Your Role:
+As an Embedded Software Engineer, you will be a member of a team responsible for the low-level modules within our platform organisation developing the infotainment head unit system.
+The system is an in-vehicle Linux based system running native Android or virtualized inside QNX hypervisor.
+You will work with low-level software modules, board bring up, develop drivers and be engaged in HW near debugging.
+You will be part of a team with experienced engineers who enjoy sharing theirs knowledge and solving problems together.
+You will have close collaboration with SoC suppliers to integrate the latest and greatest into our product.
+
+English only is sufficient language skill for this assignment

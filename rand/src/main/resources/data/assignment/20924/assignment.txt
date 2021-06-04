@@ -1,0 +1,32 @@
+SW Developer (C++) AD Platform , Referens 20924
+Ansök här
+Uppdragsbeskrivning och krav
+We are looking for a Software developer to our Client for ultrasonic perception platform development – Platform SW.
+
+You will, together with the team, be responsible for implementing and deploying a platform application in terms of a sensor perception layer in target HW running in test vehicle. You will use the latest tools and technologies available and collaborate with partners and other teams to deliver state-of-the-art software. You shall secure high quality by implementing automatic test cases that run in the CI environment and, also perform manual tests in test cars. You have several years of experience with C++ development. It is beneficial with experience from sensor technologies such as ultrasonic, radars, cameras. You will work within a cross functional agile team and focus on the development of the in-vehicle software and supporting systems needed.
+
+Main responsibilities will be:
+• Work with the perception layer from sensor data input to sensor fusion for low speed applications
+• Development using C++ and Python
+• End-to-end delivery of platform application including design, architecture, documentation, implementation and automated test cases
+
+Experience/knowledge in
+• Minimum 3 years of C++ (std 11/14) development
+• Embedded systems SW design & development
+• Optimization, unit testing, SW quality assurance
+• Linux/QNX environment
+• Python for test automation
+• Git/Gerrit, JIRA
+• Agile, Scrum and SAFe experience
+• Nvidia GPU development platform is meritorious
+
+
+English only is sufficient language skill for this assignment
+Övrig relevant information
+Skills required
+• Driven self-motivated person yet team-oriented
+• Technical mind-set with the strive to apply high level system knowledge on low level SW implementation
+• Ability to swiftly take on different development tasks in project phases like design, implementation, testing
+• Good communication skills in English, both verbally and in writing
+
+Är du tillgänglig och uppdraget känns intressant, klicka på knappen "Ansök här". Innan du svarar på ett uppdrag, var noga med att din kompetensprofil (CV) är uppdaterad, korrekt och tydligt beskriver att du är lämplig för uppdraget.

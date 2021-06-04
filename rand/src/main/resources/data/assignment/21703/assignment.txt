@@ -1,0 +1,19 @@
+Embedded Software Application Engineer, Referens 21703
+Ansök här
+Uppdragsbeskrivning och krav
+We are looking for a SW function developer with experience from designing and implementing control and/or diagnostic strategies in an embedded control system.
+
+The team is responsible for design, implementation and verification of control and diagnostic functionality for combustion engines. The group works in close cooperation with our colleagues working with hardware design and calibration/optimization globally. The team is involved in all project phases from Advanced Engineering to industrialization to Maintenance/quality fixes.
+
+The implementation is mainly done in Matlab/SimuLink/TargetLink but also using C code.
+
+- Master degree in E, M, Y, Z, F or similar with good understanding in control theory, model design, and / or on board diagnostics.
+- Good communication skills in English, both spoken and written is required .
+- We are working in small teams using agile methods in a global environment. The work hence requires skills in teamwork and collaboration.
+- We are solving complex system aspects and hence an ability to drive things forward, together with team colleagues and colleagues in other teams / sites is key.
+- Minimum 5 years of relevant experiences from vehicle industry with designing and implementing embedded functionality.
+
+English only is sufficient language skill for this assignment
+Övrig relevant information
+Är du tillgänglig och uppdraget känns intressant, klicka på knappen "Ansök här". Innan du svarar på ett uppdrag, var noga med att din kompetensprofil (CV) är uppdaterad, korrekt och tydligt beskriver att du är lämplig för uppdraget.
+

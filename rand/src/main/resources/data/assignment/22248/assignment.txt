@@ -1,0 +1,53 @@
+Senior Backend Platform Developer, Reference 22248
+Apply here
+Assignment Description and Requirements
+About the team at Verisure
+The team you will join is delivering frameworks, libraries, tools and
+some critical services mainly to the service- and application
+development teams. The team is responsible for two generation of
+platforms, one traditional Java/Spring MVC REST API and the other a
+Microservice Platform based on Kubernetes and Spring Boot. The
+team's main responsibility is not developing REST APIs but mainly
+focusing on non-functional requirements i.e. security, scalability and
+availability. Platforms also include databases (MySQL and
+Cassandra) and integration bus (RabbitMQ). Majority of the team
+members are senior developers.
+
+Job Description
+Understand and deep dive into different tools, libraries, modules or
+services one after the other when features, changes and fixes
+needed. This will make sure you eventually have a full
+understanding of the platforms we deliver to the organization.
+Take part in discussions, design work and implementation of new
+services or tools or products.
+Take part in having an eye on production environment (monitoring)
+for the relevant parts where the team has responsibility.
+Participate in code review and prepare patches and releases (later
+on)
+Participate in production incidents analysis and fix work when
+needed.
+
+Qualifications
+Request for consultancy
+This is not an order it is a request for CV/Proposals under the Framework agreements
+Education in some Computer Science/Electrical engineering or
+similar area. B.S/M.S
+Interested in details and quality minded
+Experiance in one or more of the areas:
+-design and development work in the area of authentication and
+authorization
+-design and development work of high available systems/services
+-design and development work of tools and libraries for other
+developers
+-long experience having a key role and involvment within highly
+distributed systems
+
+Other relevant information
+Notice! Presence after corona is required and remote-only will not
+be an alternative.
+-When applying, include your hourly rate and possible start date
+-Clearly motivate how you meet the qualification
+
+Are you available and the assignment seems interesting, click the "Apply now". Before you respond to an assignment, make sure that your skills profile (CV) is updated, correct and clearly describing your suitability for the job.
+
+

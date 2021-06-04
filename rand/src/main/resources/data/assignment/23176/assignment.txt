@@ -1,0 +1,25 @@
+SW Test Automation Engineer, Reference 23176
+Assignment Description and Requirements
+Requirements:
+BSc or MSc in software engineering or equivalent
+A good understanding of embedded platforms such as Linux, Android Automotive
+Experience of Test Automation - preferably in Trade Federation Test Suite
+Experience of CTS, VTS, BTS, ATS, STS Google Android Test Suites
+Automotive, embedded, or infotainment systems development experience.
+Knowledge of Automotive communication standards such as LIN, CAN, Ethernet, Flexray
+Experience using Vector tools
+In-Depth knowledge of android automotive and embedded Linux build systems and tool chains.
+Hands-on experience on embedded devices with good fault tracing and debugging capabilities.
+Strong multitasking ability, initiative and have high level of quality awareness.
+Knowledge of Linux based Host environment and tools.
+Strong problem solving skills with a willingness to deep dive into technical issues
+Good understanding of agile project methodology, e.g. Scrum and Kanban.
+Basic understanding of systems engineering and requirements management
+Fluent in English written and verbally
+Dockers and Containers.
+Good scripting ability (Python, Bash, or other Scripting language)
+Excellent understanding of Version control, Build Management using Git/Gerrit/Jenkins/Artifactory
+Use of Jira, Confluence, Polarion project tools.
+Knowledge of trends in continuous integration (CI) and continuous deployment (CD) technology
+
+English only is sufficient language skill for this assignment

@@ -1,0 +1,20 @@
+Embedded SW Developer , Reference 23018
+Apply here
+Assignment Description and Requirements
+We are looking for an experienced Embedded SW Engineer to our medtech customer.
+
+You will be part of a team with skilled engineers with diverse competencies, developing advanced solution for medical treatment. It involves mechanics, electronics and software.
+
+As an Embedded SW Engineer you will work with development of the software of a control system, which is a complex and integrated system that includes 3D imaging of the patient and motion management. The work will both include maintenance and continuous improvements of released control system and development of new features and system.
+
+Requirements on skills and experience:
+We think you have a background with a Bachelor or Master of Science in Engineering or equivalent, specializing in computer science, electronics, mechatronics, physics or similar.
+You are highly skilled in C and C++ programming in a Windows and/or embedded environment, and preferably an interest in or prior knowledge of working with safety critical systems.
+Also previous experience in microcontroller, RTOS and development of test frameworks and simulators (Python).
+Excellent command of English, both written and spoken.
+
+English only is sufficient language skill for this assignment
+Other relevant information
+This is a full time assignment with possible start in mid-August. Normally an onsite assignment in Stockholm but depending on the Corona situation it will probably be remote work initially. The assignment is approx. 6 months with the possibility of prolonging
+
+Are you available and the assignment seems interesting, click the "Apply now". Before you respond to an assignment, make sure that your skills profile (CV) is updated, correct and clearly describing your suitability for the job.

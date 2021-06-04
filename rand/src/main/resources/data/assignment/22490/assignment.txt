@@ -1,0 +1,38 @@
+Automotive - senior Functional Safety Engineer within traction battery software , Reference 22490
+Apply here
+Assignment Description and Requirements
+Senior engineer with knowledge in ISO26262. We are currently moving to in-house development of key software components of the traction battery management system. Traction batteries are complex systems containing hundreds of battery cells together with a thermal conditioning system which needs to be monitored and controlled. In order to operate the battery in a safe and optimal way, it is important to verify that all functions, diagnostics monitors and measurements are reliable and correct.
+
+Within the ART two teams are responsible for the battery hardware, measuring, monitoring and actuators and therefore, among other functionalities, we are responsible for the battery integrity/safety, contactor control, isolation monitoring, signals monitoring and the communication with all the other HV components in the electric vehicles.
+
+As a senior engineer with knowledge on Functional Safety (ISO26262) you will be working together with the ART safety engineers to breakdown the safety requirement into software requirements and then work togethers with developers to ensure that the end product fulfills ISO26262. You will also take part in Functional Safety concept work together with the system teams and safety experts.
+
+Main responsibilities
+Daily work will be combination of diverse tasks such as:
+
+• Analyze, review, and contribute to ISO26262 work products
+• Breakdown of safety requirements to SW requirements
+• Work with ISO26262 processes.
+• Review Software implementation and work together with developers.
+• Assist in testing activities
+• Analyze fault reports.
+
+Due to your work diversity, you will collaborate with different departments, such as design and software integration teams for the traction battery.
+
+Qualifications
+• Preferable education for this position is master’s degree in electrical engineering or mechatronics, or bachelor’s degree with several years of relevant experience
+• Knowledge in high voltage systems, electrical safety and electrical architecture
+• Experience of Using Elektra, Carcom, System/CarWeaver, INCA, CANalyzer & DSA
+• Knowledge and experience working with ISO26262 Functional Safety.
+• Knowledge in Matlab and Simulink
+• Driving license B, valid in EU is necessary
+• Testing experience is meritorious.
+
+Personal qualities
+• We expect you to be an outgoing person, problem solver and last, but not least, good team player
+• You should be structured and organized, but at the same time flexible and prepared for instant changes.
+• You have good communications skills and strive for good collaboration with our stakeholders.
+
+English only is sufficient language skill for this assignment
+Other relevant information
+Are you available and the assignment seems interesting, click the "Apply now". Before you respond to an assignment, make sure that your skills profile (CV) is updated, correct and clearly describing your suitability for the job.

@@ -1,0 +1,36 @@
+Function and system design for Autonomous Drive - Automotive, Referens 21045
+Ansök här
+Uppdragsbeskrivning och krav
+We are looking for an experienced Engineer to our Client with competence in function and system design for Autonomous Drive
+
+Autonomous drive has the potential to fundamentally change how cars are used and are part of our society. As a member of the Highway Pilot Function team you will contribute to the team purpose to take the lead in safe, customer valued and purposeful functions for Autonomous Driving (AD). The responsibility, communal with the team, is to develop and launch a robust and safe, human-centric, self-driving functionality.
+
+We are looking for an engineer with +5 years of experience from in function and system design to help the team develop safe AD functions with desirability and robustness.
+
+You will use your experience and competence to develop and define robust system designs and technical solutions to secure complete customer function behavior and attribute experience. You will collaborate with a large interface to other teams that needs to contribute to the development of the Highway Pilot function.
+
+You will be part of a team with competences in Human factors, system safety, function design, system design and function Verification and Validation (V&V). The team takes full responsibility for the development of the function and this will require close collaboration with our SW supplier, the team responsible for Sensing, Active Safety SW, Safe AD V&V and AD compute platform as well as teams supporting with test environments.
+
+Do you fit the profile?
+We believe that you have:
+• knowledge in ADAS functions from previous work (function development or verification) and driving
+• experience from advanced function- and system designs, systemisation and modelling not limited to ADAS functions
+• experience from requirement development and and decomposing of requirements on different abstraction layers
+• experience from working with or contributing to architecture designs for systems involving SW, sensors and ECUs
+• experience from systemization of safety critical functions and therefore knowledgeable in how to apply the standards ISO26262 and SOTIF
+• MSc degree in Systems, control and mechatronics, Data Science, Computer engineering, Engineering Physics or equivalent from experience
+• fluent in English, spoken and written
+
+Meritorious
+• experience from Scrum or Kanban based teamwork
+
+
+
+
+English only is sufficient language skill for this assignment
+Övrig relevant information
+Who are you?
+You are a fast learning, self-driven and proactive team player with high ambitions. You are good in communication, you are curious, innovative and always eager to learn and understand your surroundings. You care about people and like to interact and work together. You take initiatives and feel responsibility for getting things done. You are always willing to offer a hand even for task you have little experience from. You are active in meetings, enthusiastic, proud to share and support others with your knowledge.
+
+Är du tillgänglig och uppdraget känns intressant, klicka på knappen "Ansök här". Innan du svarar på ett uppdrag, var noga med att din kompetensprofil (CV) är uppdaterad, korrekt och tydligt beskriver att du är lämplig för uppdraget.
+

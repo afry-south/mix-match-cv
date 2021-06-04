@@ -1,0 +1,19 @@
+AD System designer / System Architect - Automotive, Referens 20922
+Ansök här
+Uppdragsbeskrivning och krav
+We are now looking for a System designer/System Architect to our Clients autonomous drive and active safety function department!
+
+You have documented experience of system design within the domain advanced driver-assistance systems (ADAS) and autonomous drive (AD). You will work with defining the system architecture for our ADAS and AD functionality and creating technical solutions involving sensors, high performance compute platforms and actuators.
+
+To succeed in the role, we believe that you need to have experience from software architecture design in complex systems and that you probably have experience of C++ development within the domain.
+
+Your daily work will be dependent on knowledge of functional safety according to ISO26262. Previous experience of performing hazard analysis and function realization including creating functional and technical safety concepts is useful in the role.
+
+Experience in designing fault-tolerant system with high availability is meritorious
+
+English only is sufficient language skill for this assignment
+Övrig relevant information
+Do you fit the profile?
+We are looking for a person that is self-driven and a proactive team player with high ability to achieve results, even under tough circumstances. You are curious, takes initiatives and is eager to learn. You care about people and you have a passion to share knowledge and learnings with others
+
+Är du tillgänglig och uppdraget känns intressant, klicka på knappen "Ansök här". Innan du svarar på ett uppdrag, var noga med att din kompetensprofil (CV) är uppdaterad, korrekt och tydligt beskriver att du är lämplig för uppdraget.

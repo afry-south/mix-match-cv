@@ -1,0 +1,140 @@
+Name
+Telephone
+Email
+
+Lam Tau Hing Jack ,CFA,CPA ,FRM
+(852) 9256 4669
+jacklth@hotmail.com
+
+Qualification Summary
+ Experienced in structured, hybrid, mezzanine and fixed income investments
+ Experienced in Bond issuance and securitization
+ Participated in various M&A and asset swap projects
+ Valuation specialist (Credit, Equity, Derivatives) with in-depth knowledge in financial modelling
+ Diverse experience in Private Equity, Fund Investments, Banking, Real Estate, Telecommunication
+ Young Economist with publication in Quantitative Finance and knowledge of global financial market;
+ Proven top performer and fast learner with excellent leadership, problem solving and analytical skills
+Professional Experience
+Jul 14 - Present Bank of China Group Investment Limited (Wholly Owned Subsidiary of Bank Of China)
+Private Equity, Fund Investment and Management and Real Estate Investment
+Senior Associate (高级经理) –Treasury and Asset management (Performance: A; Promoted in Dec
+2015)
+Investment projects
+ Led USD 300M structured investment; Formulated investment in note and TRS forms with leverage of
+2.5x and 11 percent yield; Prepared investment proposal investment committee and directors’
+consideration; 2015 realized return of 11%; Performed post-investment management and advise
+investment exit options;
+ Managed fixed income investment portfolio of HKD 18 billion; Performed yield spread analysis for
+fixed income investments; Prepared investment reports; Monitored macro, market and company
+developments to assess yield spread change and report investment risks timely; Prepared monthly credit
+market report for investment grade and high yield bonds;
+ Assisted to USD 200M preference share investment project; performed valuation analysis and
+sensitivity analysis for the investment project; Assisted to formulate and negotiate T&C of P.share
+ Assisted to CNY 3B asset back securitization project; Assisted to formulated the deal structure (AAA,
+Mezzanine and Equity tranches), credit rating and dual diligence work
+ Performed fundamental analysis for high-speed railway and real estate investments with estimated
+fair value of HKD 20B; Monitored post investment operating results; Performed cost of funding analysis
+and calculate IRRs for investments; Advise on investment exit options
+ Performed investment review for FOF (Citic capital, Hony,KKR, Goldman Sachs etc.) ; Reviewed
+GP’s quarterly fund report; Performed IRR, return multiple, cumulative cash flow analyses; Performed
+benchmark analysis on FOF investments
+Treasury management
+ Participated in USD 600M bond issuance; Worked with investment banks DCM (USB, JPMorgan and
+BOCI) to formulate the syndication strategies; Performed comparable bond and yield spread analyses;
+Liaised with credit rating agents (e.g. S&P, Moody's and Fitch); Prepared for the offering circular; Ensure
+on-going compliance of the covenants
+ Led CNY 8 billion Panda Bond issuance project in SH Exchange Market and Nafmii; Liaised with
+credit rating agents(中诚信, 联合); Worked with investment banks DCM (UBS,BOCI and BOC) to
+formulate the syndication strategies; Prepared for the offering circular; Liaised with regulators e.g. SAFE
+ Managed bank borrowings of HKD 20 billion; Secured HKD 10 billion new bank facility with 30%
+decrease in interest charge; Maintained positive working relationship with commercial banks
+ Participated in the establishment of cash pool for 300 group companies; Monitored funding need of
+cash pool members; Implemented fund transfer within group companies
+ Led the Group’s China (Shanghai) Pilot Free Trade Zone cross-border cash pooling projects; Being the
+first investment companies establishing cash pool in China with two-way convertibility of capital account
+funding
+Financial Risk Management
+ Monitoring global interest rate and FX changes; Implemented hedging strategies to address potential FX
+and interest rate moves
+ Actively managed the Group’s CNH 6 billion exposure; Realised CNH trading gain of HKD 300M in
+2015
+
+Sep 13 – Jul 14 South China Group (265 HK, 413 HK, 619 HK, 8155 HK)
+Deputy Financial Controller – Corporate Finance and Treasury (Promoted in May 2014)
+M&A
+ Led the M&A project to acquire a real estate project of HKD 900M in China; Arranged for offshore
+bridging loan for the acquisition and onshore development loan for development; Assisted in commercial
+and financial due diligence; Prepared feasibility analyses covering the cash flow forecast, IRR, Pay-back
+and funding analyses for the investment project
+ Led the very substantial disposal (VSD) project for a shell Listco with market capital HKD 400M;
+Assist to formulated the structure of the deal; Assisted in financial and legal due diligence; Prepared
+circulars
+
+
+
+2006- 2013
+
+Treasury management
+Managed loan portfolio of HKD 2.5 billion; Monitored the compliance of financial covenants and
+request for waivers if necessary; Reviewed and approved weekly cash flow forecast
+Managed Group’s FX and Interest Rate risk; Implemented hedging strategy and managed FX hedging
+portfolio (i.e. NDF and Cross-Currency Swap) of HKD 700 million with realised gain of HKD 20M
+Led to set up of MTN Program and prepared for the roadshow documents
+
+KPMG Hong Kong (Performance: 2011: Top 5% in KPMG; 2008 - 2010: Top 15% in KPMG)
+Consulting Manager – Financial Risk Management (Valuation and Modeling) (2011 – 2013)
+M&A Advisory
+ Participated in various real estate clients’ M&A advisory projects (>HKD 10 billion); Advised on the
+investment structure (i.e. CB/P share/Derivatives); Performed valuation for the financial instruments
+Valuation
+ Intensively involved in valuation of Hybrid (e.g. Convertible Bonds and Preference Shares), Equity (e.g.
+CBBC and Warrants), Interest Rate (e.g. IRS and CCIRS), FX (e.g. Option and Forward), Credit (e.g.
+CDS), structured (e.g. ELN and CLN) and exotic (e.g. Rainbow option and Range Accruals) instruments
+for listed clients and PEs including Credit Suisse, Citibank, Deutsche Bank, ABN Amro Bank, Daiwa,
+China Everbright, China Citic International Bank and China Merchants Bank International
+ Led various equity and preferred share valuation for IPO engagements (e.g. Tudou and Dianping)
+Financial Risk Management
+ Advisors for Asian Development Bank’s credit risk project; Built a Monte Carlo Simulation model
+for credit risk analysis
+ Advisor for Basel market risk projects for CMB and BEA; built a quantitative model for market risk
+measures
+Audit Manager - Real Estate, Information, Communications and Entertainment (2006 – 2011)
+Led a team of 10 – 20 members for various IPO and audit engagements. Notable clients include Wharf (4
+HK), Huawei, SAP (SAP NYSE), Top Spring Group (3688 HK; IPO), VTech (303 HK) Major duties:
+
+
+
+
+
+Publications
+
+Attained 2011 People Management Award
+Advised on the compliance of IFRS and Listing rules regarding corporate ECM,DCM and M&A
+Performed benchmarking studies covering profitability, liquidity, operating and financial leverages as
+well as working capital efficiency analyses of list clients’ business and operation results
+Solid knowledge in business combination, investment property, share-based payments and financial
+instruments accounting
+
+Quantitative Finance - “Are Nonlinear Trading Rules Profitable in the U.S. Stock Market?”
+China Economic Review - "Is the Chinese Stock Market Really Inefficient?"
+These papers contributed to the formulation of high frequency trading algorithms and addressed the
+asymmetric stochastic behaviors of stock markets under the bullish and bearish regimes
+
+Education
+
+Master of Philosophy (M.Phil) in Economics, CUHK GPA: 3.9/4.0
+ Postgraduate studentship, years 2005-2006
+ Research area, time series forecast of stock returns, International Finance and Macroeconomics
+Bachelor of Social Science (B.S.Sc.) in Economics, First Class Honors, CUHK, GPA: 3.7/4.0
+ Dean’s Honors List, Faculty of Social Science and New Asia College, years 2002-2004
+ Scholarship, New Asia College, years 2002-2004
+
+Professional Skills and Languages
+IT
+
+Bloomberg, FINCAD,VBA,SAP, STATA, RATS, Excel, Word and PowerPoint
+Languages
+
+Native command of Mandarin and Cantonese, Fluent in English
+
+

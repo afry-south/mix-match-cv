@@ -1,0 +1,21 @@
+System & Software developer – Phone as Key, Reference 23518
+Apply here
+Assignment Description and Requirements
+System & Software developer – Phone as Key
+
+Role description:
+Our Digital Key team is growing and we are looking for a new team member. The role includes System development and determining the system solutions and functionality of the Digital Keys. The Digital Key and Phone as Key systems include technologies and functions like BLE, UWB positioning, NFC, Cloud services, user intent algorithms, signaling as well as standardized requirement work with international consortiums (such as CCC) and phone OEMs. The role also includes SW development for function and test development in C/C++, Python, Robot framework and Simulink.
+
+What tools do we use:
+In the team today we use Jenkins, Python, Robot framework, C/C++ as well as Canoe and Inca. Diagnostic tools and test principles are included in the development and test work. The team is working according to the Agile ways of working, keeping backlog items and planning in JIRA.
+
+What is required?
+Knowledge of systems development is mandatory
+Experience from previous SW/System development
+Knowledge of CAN and LIN based networks is good to have
+Previous experience in writing functional and system requirements
+SW and coding skills are mandatory, preferred are skills in Python and C/C++
+Excellent coordination and team work skills
+
+Other relevant information
+Are you available and the assignment seems interesting, click the "Apply now". Before you respond to an assignment, make sure that your skills profile (CV) is updated, correct and clearly describing your suitability for the job.

@@ -1,0 +1,247 @@
+Personal Information
+DOB 18/11/1982 (Portuguese – EU Citizen)
++65 8267 0801
+
+Antonio Lavoura
+ANTONIO.LAVOURA@GMAIL.COM
+#04-03, 8 Margate Rd, 438049 Singapore
+
+Skills: Traded Market Risk, Scenario Analysis and Stress Testing; Equity Derivatives; Greeks (Sensitivities of
+1st and 2nd order); Market Risk models as VaR or SVaR; Pricing/Valuation models; SQL; Advanced Excel;
+VBA; Reuters; Bloomberg; Trade Control; UAT software testing; Business Analyst; Exotic Options; SAS.
+Education
+CFA – level II: Pass. Chartered Financial Analyst level 2 exam passed.
+CMT – level I: Pass. Chartered Market Technician level 1 exam passed.
+Nov. 00 – Feb. 05
+
+Nova School of Business and Economics (Lisbon, Portugal)
+B.S., Business Administration: 14.1 values out of 20 (70,5%).
+Majors: Finance 14, Strategy 17
+
+Sep. 03 – Feb. 04
+
+Universidad Autónoma de Madrid (Erasmus exchange program, Spain)
+Work experience
+
+Jan 17 – present
+
+Job search in Singapore, previous roles in London.
+
+Jun. 16 – Dec 16
+
+Valfa Capital Ltd – Portfolio and Risk Manager
+• Small fund invested on European Equity Index futures and Bonds.
+
+Oct. 15 – May 16
+
+Nomura – Stress Testing SME (subject matter expert)
+
+Contractor
+
+• Lead the design of new applications to better explain Scenario’s PnL, risk exposure and
+improve data integrity.
+• Improvements to the stress testing framework in order to comply with the BCBS239
+guidelines from the Basel committee.
+• Driving the requirements and help defining, testing and documenting the new
+developments.
+• Develop relationships with all stakeholders to ensure timely and consistent delivery.
+• Liaise with other stress testing analysts and SMEs to ensure the requirements are clear
+and properly defined.
+• Ensure that new developments are properly tested and documented.
+• Help define IT requirements and develop testing tools around stress testing results.
+• Provide relevant commentary on the quality of the results
+• UAT testing and feedback to development teams
+• Reconciliation and validation of stress test data results
+• Ensure compliance with FDSF (Firm Data Submission Framework) for PRA (Bank of
+England)
+• Develop and conduct user training workshops and materials.
+
+Mar. 15 – Oct. 15
+
+Mitsubishi UFG – Market Risk Manager – Rates Desk
+
+Contractor
+
+• Ensure adequate limits (VaR, sensitivities and stress) and risk framework are in place,
+aligned with the firm’s overall risk appetite and desk mandates.
+• Proactive input into Management Information, including risk-adjusted performance
+measures, to facilitate better business decisions and resource allocation.
+• Work with trading staff to understand and highlight inherent market risks and define
+practical solutions.
+• Run risk reports and updates for the weekly Management Committee meetings and other
+senior level meetings such as the Executive Committee and Board Risk Committee.
+• Validate VaR and SVaR numbers on a daily basis, justifying any change with new
+trades or market price moves, affecting sensitivities.
+• Following new OTC trades of Interest Rate products, to hedge actual exposures.
+• Identify Data Quality issues and liaise with other teams to fix the incorrect numbers.
+
+Oct. 13 – Oct. 14
+
+Credit Suisse IB – VaR Consolidation and Backtesting team
+
+Contractor
+
+• Review and monitor the legal entity limits implementation.
+• Analysis of Market Risk and Capital number’s moves.
+• In charge for Capital and Risks Not in VaR (RNIV) reporting process.
+• Provide details to senior management on market risk daily moves. Explaining what
+trades
+caused
+VaR
+to
+increase
+or
+sensitivities
+to
+change.
+• Daily report of PRA legal entities on market risk metrics and associated capital
+consumption.
+• Ownership of Risks Not in VaR reporting. Review of all reports before sending to
+regulatory authorities. Calculation of capital consumption associated with RNIV risks and
+the number of exceptions experienced by the legal entity.
+• Point of contact for all queries related with RNIV numbers and reports. Improvement of
+the reporting process, excel and VBA tools used and the timings of the reporting process
+through its different stages.
+• Elaboration of documentation and manuals on the RNIV reporting and training of an
+offshore team to take over some of the tasks involved in the process. Monitorization of
+this team’s production.
+
+Jul.12 - Dec. 12
+
+Credit Suisse IB – Counterparty and Credit Risk - Scenarios/Stress Testing
+
+Contractor
+
+• Develop a series of consistent test scripts to challenge the entire data flow, from scenario
+database, to product valuation, reporting production and finally report distribution.
+• UAT testing, approval of software releases developed internally after designing and
+executing both positive and negative test cases.
+• Ownership of the reporting distribution project. Elicit business and functional
+requirements to develop the reporting distribution capability, communicating these to
+internal IT developers through a BRD and an FRD.
+• Designing the process of aggregation the scenario's results by issuer, accordingly to
+counterparty risk requirements.
+• Definition of new scenarios and validation of stress valuation results.
+• Testing the UAT releases, detecting errors and suggesting solutions.
+• Gathering and documenting requirements after creating and winning a new business
+case.
+• Performing general Business Analyst tasks and different functional implementations.
+
+Apr. 11 – Jun. 12
+
+Credit Suisse IB – Market Risk – Scenarios/Stress Testing – Equity Derivatives
+
+Contractor
+
+• Ensure the risk policies, trading limits and procedures are followed by the trading
+
+personal.
+• Manipulation of trade valuation models to produce scenario analysis information.
+• Analysis and review of scenario results, focusing on understanding the behaviour of
+derivative products under scenario conditions.
+• Liaison with Trading and Risk Managers to confirm and corroborate scenario results.
+• Production of scenario analysis reporting information for distribution to senior
+management and regulators.
+• Continuous review of existing control environment and processes in order to improve
+controls and efficiency of process.
+• Development of new scenarios to address risks not adequately captured within existing
+risk management framework or new risks as they arise.
+• OTC Structured Products valuation monitoring, as market inputs changed and
+expirations approached, mostly for Equity Trigger Redeemables, Accumulators and other
+Exotics.
+• Produce and report measures of risk, as VaR (Historical Simulation).
+Dec. 08 – Nov. 10
+
+AXA – Investments Department – Middle Office Control
+
+Permanent
+
+• Portfolio Controls: Regulatory limits, investment policies, asset class exposures,
+Durations, Greeks and other statistics measures of performance and risk.
+• Risk Monitorization: Performance Attribution, PnL review, Concentration Risk limits.
+• Asset Valuations: Credit and Fixed Income valuation's testing, models development for
+Caps/Floors, Callables, Interest Rate Swaps and other Vanilla products; Monitoring yield
+curves and credit spreads used for month end valuations.
+• Monitoring the process of pricing assets and occasionally attribute value to fixed income
+products. Monitoring asset swap yield curve and credit spreads accordingly to rating and
+maturity ranges.
+• Check counterpart valuations and data vendors contributed prices.
+• Monitoring indexes of asset swap credit spreads.
+• Verify concentration risk in portfolios and AXA companies, accordingly to internal
+normative.
+• Regulatory limits control, according to insurance laws in Portugal, Spain and Italy.
+Limits were set at corporate issuer, parent company, maximum liquidity, minimum rating,
+asset class, currency levels.
+• SOX procedures monitoring.
+• Insure operating procedures were being respected.
+• Insure trades are being added according definitions of previous Investment Committees.
+• Verify if signatures authorizing trades respect Power of Attorneys defined for the AXA's
+company or portfolio.
+• Creation of a model that reproduces the complex fees structure charged by asset
+managers, of over 12B€.
+• Manage relationship between AXA Mediterranean Region and Local AXA companies
+regarding a Service Level Agreement.
+• Control of NAV values from pension funds and Unit Linked products, in order to detect
+abnormal volatility.
+• Pension funds, Unit Links and benchmarks performance production.
+• Monitoring hedging effectiveness, through Greeks observation, of Unit Linked products.
+• Monitoring theoretical and real weights of asset classes and constituents funds within
+UL products.
+• Development of excel calculators for caps, floors (binomial and BS model) and callable
+bonds.
+• Monitoring portfolio composition accordingly to Investment Policy.
+
+• Development with SAP consultants, of applications capable of computing portfolio and
+benchmark performance.
+• Conciliations of accounting data between different platforms, accordingly to SOX rules.
+• Modelization and development of a written algorithm capable of monitoring regulatory
+limits through SAP.
+• Excel macros development to get real time data from Bloomberg.
+• Participation and collaboration with internal and external auditors.
+• Monthly reports of incidences and minimization of risks through controls.
+• Identification and quantification of operational risks within investments department
+• Revision of ISDA and CSA
+• Analysis of different SPVs valuation models.
+Jun. 08 – Dec. 08
+
+AXA – Pension Funds – Front Office, Portfolio Manager Assistant
+• Developed excel models to track Portfolio and Benchmark's performance attribution and
+statistics.
+• Developed models to perform stress-testing /scenario analysis.
+• Investment Committee advisory member; ad-hoc research projects and risk analysis.
+• Development of an excel model capable of retrieving extensive portfolio and benchmark
+performance statistics automatically.
+• Develop model to perform stress-test/scenario analysis.
+• Sectorial analysis of portfolios accordingly GICS standards.
+• Reading and summarizing research notes.
+• Elaboration of quarterly client's information and research notes on markets and their
+pension funds.
+• Analysis of pension funds industry in Spain and the consistency of funds within first
+quartile during several years.
+• Advisory member of Investment Committee for pension funds
+• Analysis of Real Peer Performance of AXA pension funds against the industry, by
+quartiles.
+
+Sep. 07 – Apr. 08
+
+SwiftTrade – Proprietary Stock Trader ($70k average daily volume)
+
+Sep. 06 – Sep. 07
+
+Independent Futures Trader – European Stock Index Futures traded at Eurex.
+
+Nov. 05 – Aug. 06
+
+Reuters – Data Source Analyst
+• In charge of Portuguese and Spanish clients (OTC dealers/market makers) contributing
+prices to Reuters. Excel macro's production per client's request.
+Languages and Computer skills
+
+Fluency:
+Applications:
+
+Portuguese, Spanish, English and average French.
+Excel (VBA), SQL Server Management Studio, Reuters, Bloomberg, SAP, X_Trader,
+Metastock, WealthLab, Business Objects, MARS, MUREX, SAS Studio.
+
+
